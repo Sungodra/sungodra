@@ -1,12 +1,11 @@
 ```yaml
 name: Vasilis Mallios
 located_in: Corfu, Greece
+
 currently learning: Full Stack Web Development
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Under-Graduate student in Computer Science of the Hellenic Open University"
   ]
 
 fields_of_interests:
@@ -16,7 +15,7 @@ fields_of_interests:
     "Software installation"
   ]
 
-currently_learning: ["html, css, "]
+currently_learning: ["html, css, javascript, React.js, MondgoDB"]
 2023 Goals: ["Finish my Full Stack Web Development Course."]
 hobbies: ["Gaming", "Cinema", "Hiking", ""]
 ```
