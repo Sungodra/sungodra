@@ -12,6 +12,8 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "Home Computer Repairs",
+    "Software installation"
   ]
 
 currently_learning: ["html, css, "]
